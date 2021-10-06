@@ -1,3 +1,9 @@
+# ELN login credentials
+ELN_login.txt
+
+#nwb files
+*.nwb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
